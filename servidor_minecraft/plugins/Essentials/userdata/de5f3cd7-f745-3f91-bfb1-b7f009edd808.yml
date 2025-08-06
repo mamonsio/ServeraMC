@@ -11,20 +11,37 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 0
+  lastteleport: 1754443215182
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1754440525539
-  login: 1754440533286
+  logout: 1754443224637
+  login: 1754443234907
 money: '0'
 logoutlocation:
   world: 6a0c7d6e-305d-4cba-9dc8-b3019d1894a4
   world-name: world
-  x: 164.5
-  y: 63.0
-  z: -107.5
-  yaw: 4.323305130004883
-  pitch: 0.0
+  x: -330.6008456997244
+  y: 88.13144694867023
+  z: -709.1941435817123
+  yaw: 84.12155151367188
+  pitch: 63.04352569580078
 last-account-name: kakarotto177
+lastlocation:
+  world: 6a0c7d6e-305d-4cba-9dc8-b3019d1894a4
+  world-name: world
+  x: 172.99254394688236
+  y: 63.0
+  z: -107.25516427644811
+  yaw: -12.750007629394531
+  pitch: 3.299997329711914
+homes:
+  home:
+    world: 6a0c7d6e-305d-4cba-9dc8-b3019d1894a4
+    world-name: world
+    x: -321.6795869566355
+    y: 102.0
+    z: -781.259495844599
+    yaw: 86.82158660888672
+    pitch: 2.443582773208618

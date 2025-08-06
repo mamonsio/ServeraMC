@@ -407,6 +407,12 @@
     },
     "done": true
   },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-08-06 00:57:51 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_magenta": {
     "criteria": {
       "has_the_recipe": "2025-08-05 20:40:57 +0000"
@@ -4472,6 +4478,12 @@
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-08-06 00:57:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine_bricks": {
     "criteria": {
       "has_the_recipe": "2025-08-05 20:40:57 +0000"
@@ -4594,7 +4606,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:mountains": "2025-08-06 00:47:50 +0000",
       "minecraft:taiga": "2025-08-05 20:40:58 +0000",
+      "minecraft:taiga_hills": "2025-08-06 00:50:29 +0000",
+      "minecraft:river": "2025-08-06 00:58:13 +0000",
+      "minecraft:wooded_mountains": "2025-08-06 00:48:10 +0000",
       "autumnity:red_spotted_taiga": "2025-08-06 00:46:25 +0000",
       "minecraft:forest": "2025-08-05 23:40:59 +0000",
       "minecraft:plains": "2025-08-05 20:42:45 +0000"
@@ -5167,6 +5183,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "porkchop": "2025-08-06 01:02:31 +0000",
       "mutton": "2025-08-05 23:40:09 +0000",
       "cooked_chicken": "2025-08-05 23:50:38 +0000",
       "rotten_flesh": "2025-08-05 23:40:44 +0000"
