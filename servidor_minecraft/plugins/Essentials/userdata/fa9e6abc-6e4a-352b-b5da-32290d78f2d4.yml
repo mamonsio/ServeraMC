@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 100.122.158.7
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1754437757285
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1754437870172
+  login: 1754440549127
+money: '0'
+last-account-name: Tmarsi219
+lastlocation:
+  world: 6a0c7d6e-305d-4cba-9dc8-b3019d1894a4
+  world-name: world
+  x: 161.7032699012314
+  y: 63.0
+  z: -93.63870287786307
+  yaw: -297.95648193359375
+  pitch: 19.598743438720703
+logoutlocation:
+  world: 6a0c7d6e-305d-4cba-9dc8-b3019d1894a4
+  world-name: world
+  x: 184.94999762242907
+  y: 64.0
+  z: -119.57495468992063
+  yaw: 119.01837158203125
+  pitch: 37.936920166015625

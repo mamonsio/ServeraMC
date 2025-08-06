@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 100.65.128.61
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1754437874496
+  login: 1754440925913
+money: '0'
+last-account-name: Elmegabyt12
+logoutlocation:
+  world: 6a0c7d6e-305d-4cba-9dc8-b3019d1894a4
+  world-name: world
+  x: 134.3317072622034
+  y: 67.53584062504456
+  z: -186.032846679932
+  yaw: -93.75220489501953
+  pitch: 37.19993209838867

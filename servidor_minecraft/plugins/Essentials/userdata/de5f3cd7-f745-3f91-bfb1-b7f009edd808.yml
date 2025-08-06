@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 100.81.100.14
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1754440525539
+  login: 1754440533286
+money: '0'
+logoutlocation:
+  world: 6a0c7d6e-305d-4cba-9dc8-b3019d1894a4
+  world-name: world
+  x: 164.5
+  y: 63.0
+  z: -107.5
+  yaw: 4.323305130004883
+  pitch: 0.0
+last-account-name: kakarotto177
